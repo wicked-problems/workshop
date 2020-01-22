@@ -1,6 +1,6 @@
-# Blumenstock Response
+# This is the readme file for this repository
 
-Don't forget people in the use of Big Data
+It is a kind of landing spot for initially accessing a GitHub repository.
 
-What are some of the promises and pitfalls associated with human development data science?
+You could also use your readme file as a table of contents or index that describes all of the content you will create.
 
