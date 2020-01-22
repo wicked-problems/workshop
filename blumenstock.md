@@ -1,6 +1,5 @@
 ## Response to Blumenstock
-Tyler Frazier
-
+Tyler Frazier \\
 January 22, 2020
 
 Don't forget people in the use of Big Data
