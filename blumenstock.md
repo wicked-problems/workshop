@@ -1,5 +1,5 @@
 # Response to Blumenstock
-Tyler Frazier
+## Tyler Frazier
 
 Don't forget people in the use of Big Data
 
