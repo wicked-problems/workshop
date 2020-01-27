@@ -1,8 +1,6 @@
 # Catalog of Work
 
-It is a kind of landing spot for initially accessing a GitHub repository.
-
-You could also use your readme file as a table of contents or index that describes all of the content you will create.
+Following is a table of contents of my work produced for Wicked Problems / Evolving Solutions.
 
 ## Responses to Readings
 
