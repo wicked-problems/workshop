@@ -22,4 +22,3 @@ How do you respond to these ideas regarding “good intent”, “transparency�
 
 https://wmdsi.slack.com/archives/CSYKHQ876
 
-https://wmdsi.slack.com/#data100_workshop
