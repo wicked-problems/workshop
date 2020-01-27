@@ -1,9 +1,8 @@
-# Response to Blumenstock
-Tyler Frazier
+# Response to Blumenstock (Reading Response 1)
 
-January 22, 2020
+January 27, 2020
 
-### Joshua Blumenstock 
+### Joshua Blumenstock
 Don’t forget people in the use of big data for development 
 Nature: Sept. 2018
 
