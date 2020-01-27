@@ -8,7 +8,7 @@ You could also use your readme file as a table of contents or index that describ
 
 1.  [Blumenstock response](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 27)
 
-2.  [Blumenstock response_extra]
+2.  [Blumenstock response_extra](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 27)
 
 
 ## Workshop
