@@ -8,6 +8,10 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 
 
-## Workshop
+## Projects
 
 1.  
+
+## Assignments
+
+1.  Annotated Bibliography
