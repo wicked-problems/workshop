@@ -1,4 +1,4 @@
-## Reading Response 1
+## Reading 1
 January 27, 2020
 
 #### Joshua Blumenstock
