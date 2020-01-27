@@ -1,4 +1,4 @@
-# This is the readme file for this repository
+# Catalog of Work
 
 It is a kind of landing spot for initially accessing a GitHub repository.
 
@@ -8,7 +8,8 @@ You could also use your readme file as a table of contents or index that describ
 
 1.  [Blumenstock response](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 27)
 
-2. [Blumenstock response 2](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 27)
+2.  [Blumenstock response_extra]
+
 
 ## Workshop
 
