@@ -6,7 +6,7 @@ You could also use your readme file as a table of contents or index that describ
 
 ## Responses to Readings
 
-1.  [Blumenstock response](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md)
+1.  [Blumenstock response](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 27)
 
 ## Workshop
 
