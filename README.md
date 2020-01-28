@@ -6,7 +6,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 1.  [Blumenstock question](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 28)
 
-2.  [Blumenstock response extra](
+2.  [Blumenstock response extra](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md) (Jan. 28)
 
 
 ## Projects
