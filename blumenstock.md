@@ -1,5 +1,5 @@
 ## Reading 1
-January 27, 2020
+January 28, 2020
 
 #### Joshua Blumenstock
 Don’t forget people in the use of big data for development 
