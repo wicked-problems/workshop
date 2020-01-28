@@ -18,7 +18,7 @@ Additionally, consider the following statements from three of your classmates re
 
 How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?
 
-#### Please post a link to your response on #data100_workshop by the end of the day.
+#### Please post a link to your response on #data150_response by the end of the day.
 
-https://wmdsi.slack.com/archives/CSYKHQ876
+https://wmdsi.slack.com/archives/CSPGRLE1F
 
