@@ -18,7 +18,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 ## Assignments
 
-1.  Annotated Bibliography
+1.  [Annotated Bibliography](https://tyzao.gitbook.io/geodatasci/assignment1/annobib) (Due Feb. 22)
   - Problem Statement
     - Harms
     - Significance of those harms
