@@ -33,3 +33,6 @@ Publications made available on the [Flowminder](https://web.flowminder.org/work/
   - What is the scientific question the authors are seeking to answer?
 
 After selecting a research topic and annotating each source propose a region, country or countries that you think will be interesting for further investigation. Identify and describe the local nature and complex challenges associated with your selected human development problem within the context of that location.
+
+## Deliverable
+Type your annotated bibliography.  Your annotated bibliography should be at least 2000 words in length and include a minimum of 5 different sources. Title your annotated bibliography and be sure to include your name.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography to your github site and share a link to your published webpage on slack channel [#data150_assignment1](https://wmdsi.slack.com/archives/CTFA0R00Y) no later than 10PM, Saturday, February 22nd.
