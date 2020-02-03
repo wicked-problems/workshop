@@ -8,7 +8,7 @@ The Best Stats You’ve Never Seen
 
 #### Question
 
-...
+Selim Jahan introduces the idea that for far too long the paradigm of economic development has dominated the idea of human development.  Jahan states that while income is critical it is not an end, and that human development is about expanding the richness of life, not the richness of the economy within which human beings live.  What are some of the examples Jahan gives where a renewed focus on human development is needed throughout many parts of the world?  Elaborate further on Jahan's definition of human development.  What are the different measures that are incorporated into the Human Development Index that serve as a measure of each countries' achievement?
 
 #### Please post a link to your response on #data150_response by the end of the day.
 
