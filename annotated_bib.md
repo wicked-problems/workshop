@@ -36,3 +36,6 @@ After selecting a research topic and annotating each source, write a one paragra
 
 ## Deliverable
 Type your annotated bibliography.  Your annotated bibliography should be at least 2000 words in length and include a minimum of 5 different sources. Title your annotated bibliography and be sure to include your name.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography to your github site and share a link to your published webpage on slack channel [#data150_assignment1](https://wmdsi.slack.com/archives/CTFA0R00Y) no later than 10PM, Saturday, February 22nd.
+
+![](hd1.png)
+![](hd2.png)
