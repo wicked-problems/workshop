@@ -7,12 +7,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 1.  [Blumenstock question](https://wicked-problems.github.io/workshop/blumenstock) (Jan. 30, revised)
 2.  [Jahan / Rosling question](https://wicked-problems.github.io/workshop/jahan_rosling) (Feb. 4)
 
-
-
-
-
-
-## Projects
+## Projects 
 
 1.  
 
