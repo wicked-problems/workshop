@@ -23,6 +23,15 @@ Begin by proposing a research topic you would like to investigate this semester.
   
 Making an appointment with a research librarian at Swem in order to receive assistance and individual attention is a good place to start.  Be sure to share your assignment with your Research Librarian in advance of meeting, so she/he will be best prepared at the time you meet.
 
+[Swem library - make an appointment with a research librarian](https://libraries.wm.edu/appointments)
 
+Publications made available on the [Flowminder](https://web.flowminder.org/work/research-innovation) and [WorldPop]( https://www.worldpop.org/publications) websites are also both good places to start with your investigation.  After selecting your four articles, annotate each one, by identifying and describing the most important ideas presented in each work.  Identify and describe the significant harm (development problem) each article is seeking to address.  Also identify and describe the inherent and complex nature of the development problem as it pertains to the region or country of investigation.  Additionally, answer the following questions.
+  - How does this article relate to Amartya Sen’s definition of human development?
+  - Which dimension of human development is being addressed by the authors’ research?
+  - Which sustainable development goals can be considered in relation to your selected article?
+  - Which (geospatial) datasets are used by the authors?
+  - Which (geospatial) data science methods are used by the authors?
+  - Which human development pattern or process are the authors investigating?
+  - What is the scientific question the authors are seeking to answer?
 
- [Swem library - make an appointment with a research librarian](https://libraries.wm.edu/appointments)
+After selecting a research topic and annotating each source propose a region, country or countries that you think will be interesting for further investigation. Identify and describe the local nature and complex challenges associated with your selected human development problem within the context of that location.
