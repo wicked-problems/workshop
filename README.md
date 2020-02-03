@@ -5,6 +5,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 ## Responses to Readings
 
 1.  [Blumenstock question](https://wicked-problems.github.io/workshop/blumenstock) (Jan. 30, revised)
+2.  [Jahan / Rosling question](...)
 
 
 
