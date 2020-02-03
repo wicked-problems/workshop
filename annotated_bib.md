@@ -21,9 +21,7 @@ Begin by proposing a research topic you would like to investigate this semester.
   - Climate change
   - Land use
   
-Making an appointment with a research librarian at Swem in order to receive assistance and individual attention is a good place to start.  Be sure to share your assignment with your Research Librarian in advance of meeting, so she/he will be best prepared at the time you meet.
-
-[Swem library - make an appointment with a research librarian](https://libraries.wm.edu/appointments)
+[Making an appointment with a research librarian at Swem](https://libraries.wm.edu/appointments) in order to receive assistance and individual attention is a good place to start.  Be sure to share your assignment with your Research Librarian in advance of meeting, so she/he will be best prepared at the time you meet.
 
 Publications made available on the [Flowminder](https://web.flowminder.org/work/research-innovation) and [WorldPop]( https://www.worldpop.org/publications) websites are also both good places to start with your investigation.  After selecting your four articles, annotate each one, by identifying and describing the most important ideas presented in each work.  Identify and describe the significant harm (development problem) each article is seeking to address.  Also identify and describe the inherent and complex nature of the development problem as it pertains to the region or country of investigation.  Additionally, answer the following questions.
   - How does this article relate to Amartya Sen’s definition of human development?
