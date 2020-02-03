@@ -23,4 +23,6 @@ Begin by proposing a research topic you would like to investigate this semester.
   
 Making an appointment with a research librarian at Swem in order to receive assistance and individual attention is a good place to start.  Be sure to share your assignment with your Research Librarian in advance of meeting, so she/he will be best prepared at the time you meet.
 
-https://libraries.wm.edu/appointments
+
+
+ [Swem library - make an appointment with a research librarian](https://libraries.wm.edu/appointments)
