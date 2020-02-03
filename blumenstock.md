@@ -1,4 +1,4 @@
-## Reading 1
+## Reading
 January 28, 2020
 
 #### Joshua Blumenstock
