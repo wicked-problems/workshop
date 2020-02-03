@@ -12,7 +12,7 @@ Selim Jahan introduces the idea that for far too long the paradigm of economic d
 
 Hans Rosling states that "we underestimate the tremendous social change that often precedes economic change" and proceeds to provide several examples.  What were some of the examples Rosling presented where health appeared to be a precursor to wealth?  What was Rosling's warning regarding the dangers of using averages when describing development?
 
-#### Please post a link to your response on [#data150](https://wmdsi.slack.com/archives/CSPGRLE1F) response by the end of the day.
+#### Please post a link to your response on [#data150_response](https://wmdsi.slack.com/archives/CSPGRLE1F) by the end of the day.
 
 
 
