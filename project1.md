@@ -4,14 +4,14 @@ Tyler Frazier
 
 ## Administrative Subdivisions of Liberia
 
+A brief description.
+
 ![](details.png)
 
 ## Population of Liberia's Counties
 
-![](cntylbr_pop.png)
+add this file
 
 ## Population of Liberia's Districts 
 
-![](lbrdist_logpop19b.png)
-
-![](pop.gif)
+add this file
