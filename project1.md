@@ -8,6 +8,8 @@ A brief description.
 
 ![](details.png)
 
+Some challenges I had with producing this plot.  Some findings regarding the investigation.  Reflection on my work.
+
 ## Population of Liberia's Counties
 
 add this file
