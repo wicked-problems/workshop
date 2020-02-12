@@ -13,7 +13,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 ## Assignments
 
-1.  [Annotated Bibliography](https://wicked-problems.github.io/workshop/annotated_bib) (Due Feb. 22)
+1.  [Annotated Bibliography](https://wicked-problems.github.io/workshop/assignment_1) (Due Feb. 22)
   - Problem Statement
     - Harms
     - Significance of those harms
