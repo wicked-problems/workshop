@@ -1,38 +1,28 @@
-# Assignment 1
-Write an Annotated Bibliography
+# Assignment 2
+Write a Literature Review
 
 ## Summary
-In this assignment you will begin your exploratory investigation into a geospatial human development process.  You will propose a research topic and select a region or country to begin your exploratory investigation into a dimension of human development.  Then you will need to research and select five articles that use geospatial data to answer a scientific question about human development. Once you have identified your articles, annotate each one, by identifying the most important ideas that have been addressed in the work as well as by answering a series of questions about the intersection of each source with the main themes of this course.  Through the development of these annotations you will begin to establish a boundary for your research while describing and defining the landscape of knowledge that populates your selected area of investigation. Your annotated bibliography is the starting point for describing the problem you will investigate in terms of harms, significance, and inherency, as well as a means for clarifying the parameters of your inquiry.
+In this assignment you will use your annotated bibliography as the beginning point to write a literature review on your selected human development topic. Your literature review should amount to more than reporting what you’ve read, but instead should demonstrate understanding of your selected area of research. It should define the boundaries of your inquiry, identify some of the most significant works, and contextually serve as a starting point for positioning your research. A good literature review serves to justify your research through a critical analysis of the material.
 
 ## Instructions
-Begin by reviewing the United Nations knowledge platform on the [Sustainable Development Goals](https://sustainabledevelopment.un.org).  Consider your interests and think about a research area, which is mostly likely to intersect with one or more of the SDGs.  Contemplate the research topic you would like to investigate this semester. Select a topic that includes the use of data science methods that describe, analyze, model and/or simulate a geospatial human development pattern and/or process.  Following are some suggested human development topics where data science methods are being actively developed.
-  - Disaster management and response
-  - Socioeconomic Analysis
-  - Precision Epidemiology and disease burdern estimation
-  - Migration
-  - Urbanization
-  - Infrastructure and social service
-  - Accessibility modeling
-  - Transportation modeling
-  - Poverty assessment and analysis
-  - Resource management and allocation
-  - Food security
-  - Environmental Impact Assessment
-  - Climate change
-  - Land use
-  
-[Making an appointment with a research librarian at Swem](https://libraries.wm.edu/appointments) in order to receive assistance and individual attention is a good place to start.  Be sure to share your assignment with your research librarian in advance of meeting, so she/he will be best prepared at the time you meet.
+Start your literature review by selecting a human development topic that you found interesting while exploring the material from flowminder and worldpop. Also select a region or country where you think investigating your selected topic will be inherently relevant due to local circumstances. Draft a title for your forthcoming literature review that includes your selected dimension of human development and the region or country of interest. Begin by writing a few sentences that describe how your selected topic relates to Amartya Sen’s definition of human development.
 
-Publications made available on the [Flowminder](https://web.flowminder.org/work/research-innovation) and [WorldPop]( https://www.worldpop.org/publications) websites are both good places to start with your investigation.  After selecting your five articles, annotate each one, by identifying and describing the most important ideas presented in each work.  Identify and describe the significant harm (development problem) each article is seeking to address.  Also identify and describe the inherent and complex nature of the development problem as it pertains to the region or country of investigation.  Additionally, answer the following questions.
-  - How does this article relate to Amartya Sen’s definition of human development?
-  - Which dimension of human development is being addressed by the authors’ research?
-  - Which sustainable development goals can be considered in relation to your selected article?
-  - Which (geospatial) datasets are used by the authors?
-  - Which (geospatial) data science methods are used by the authors?
-  - Which human development pattern or process are the authors investigating?
-  - What is the scientific question the authors are seeking to answer?
+Identify one or more of the data science methods that you found to be significant while annotating the four sources from Assignment 1.  Also identify one or more of the datasets you found to be significant as part of your annotated bibliography. Do your best to name and describe the (geospatial) data science methodology (or methodologies) and identify the source of your data (or datasets).
 
-After selecting a research topic and annotating each source, write a one paragraph problem statement that identifies the harms you are seeking to address, quantifies the significance of those harms and describes the inherent and complex nature of the problem.  Contextualize your problem statement within its regional or country specific locale.  Include a description of the local nature and complex challenges associated with your selected human development problem within the context of your selected region, countries or country.
+Research your selected human development topic and identified data science method(s). A good place to start is William & Mary’s online library database.  You may want to approach the Swem research desk and ask for guidance on how to identify new, relevant and useful sources. It may also be helpful to schedule an appointment with a research librarian.  Be sure to provide the research librarian with your topic, methods of interest, datasets and region of investigation in advance so she or he has some idea of how to assist prior to meeting.
+
+Select at least fiver new sources that contribute to understanding the current state of your selected human development topic. You are welcome to select a source that describes your selected topic from a more global perspective, but please keep in mind at this step in the research process we are not interested in proposed solutions to a development problem. Sources that focus on describing, analyzing and modeling your selected human development topic in terms of patterns or processes will likely be more helpful. Field studies that couple methods and data with on-site observations and/or verification of information could also be contextually useful. Identify new sources that are central to your focus and contribute to increasing the depth of your investigation. You are welcome to use new sources from flowminder or worldpop so long as each one is in addition to the four from your annotated bibliography. Upon selecting each new source, again annotate the article and add it to your bibliography.
+
+Begin writing your literature review by first drafting an outline that reflects a deconstruction of the annotations from your bibliography, and then a subsequent hierarchical, re-assimilation of associated ideas. Build your outline so it structurally reflects your selected human development theme, sub-themes and (geospatial) data science method(s). You may want to dedicate one section of your outline to describing your dimension of human development from a global perspective and then contextually introduce your selected region or country. You may then want to dedicate a subsequent section of your outline to a relevant sub-theme that also serves to introduce a data science method and its application. Thematically populate your outline with your annotations, associating and synthesizing similar ideas. Critically analyze the material where possible.
+
+Begin to write your literature review by transforming the information contained within the structure of your outline into an integrated, fluid and coherent paper. Be sure to add a section that introduces your literature review. For example, you could introduce your work by providing a general analysis that considers your topic from a comprehensive perspective as well as in terms of your area of regional focus. You could also introduce your research by defining the parameters of your inquiry. As you proceed to sections that are the main body of your work, seek to provide insight and add value through progressively synthesizing findings from your sources. After completing a first draft, you may need to find one or two more additional sources that serve to advance your research focus and the depth of your work in terms of critical analysis. While researching and developing your literature review consider the following questions.
+
+- Are you able to describe and define how your selected human development process behaves as a complex adaptive system? Are you able to identify social, economic or environmental features associated with your human development process?
+- Are you able to identify features associated with your human development process that are difficult or nearly impossible to predict in detail? Alternatively, are you able to identify broader system properties or features that are more feasible to predict?
+- Are you able to identify an emergent property inherent to your human development process that does not necessarily link to an individual specific agent? Are you able to describe how your human development process tends towards greater complexity and away from equilibrium?
+- In your opinion, which scientific questions are most relevant to your selected human development process?
+
+Conclude your literature review with a one or two paragraph reflection on your work to date. Follow this summary by attempting to identify a gap in the literature that you think needs addressed. Also draft a central research question that your investigation into a human development process will seek to answer.
 
 ## Deliverable
 Type your annotated bibliography.  Your annotated bibliography should be at least 2000 words in length and include a minimum of five different sources. Title your annotated bibliography and be sure to include your name.  Do not include your title or reference information when calculating your word count. Please post your annotated bibliography to your github site and share a link to your published webpage on slack channel [#data150_assignment1](https://wmdsi.slack.com/archives/CTFA0R00Y) no later than 10PM, Saturday, February 22nd.
