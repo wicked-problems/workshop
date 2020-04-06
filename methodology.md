@@ -1,4 +1,6 @@
-# Assignment
+# Assignment 3
+
+Investigate a methodology
 
 ## Summary
 
