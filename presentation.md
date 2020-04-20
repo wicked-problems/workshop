@@ -10,7 +10,7 @@ Over the course of this semester you have defined a development related problem,
 
 Step 1. Write an abstract and give your presentation a title
 
-Draft an abstract and give your presentation a title. Review and edit your abstract, which should be less than a page in length, single spaced. Write your abstract, including title, your name and the date you will present. Post your abstract to slack channel #data150_assignment4 by midnight Saturday, April 25th.
+Draft an abstract and give your presentation a title. Review and edit your abstract, which should be less than a page in length, single spaced. Write your abstract, including title, your name and the date you will present. Post your abstract as a single page, pdf document to slack channel #data150_assignment4 by midnight Saturday, April 25th.
 
 Step 2. Prepare the slides for your presentation
 
