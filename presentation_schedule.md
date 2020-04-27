@@ -45,7 +45,9 @@ There will be a brief question and answer period following each student's 8 to 1
 ## Thursday April 30, 9:30 to 10:50
 
 1.  [Utilizing Random Forest and Bayesian Spatio-temporal models to quantify Malaria inregions of West Africa](https://slack-files.com/TFB8EJWF3-F012J83QANN-47b4920b66) (Devika Puri).   
-2.  [Analyzing Geospatial Data and Machine Learning Methods as a Means toUnderstand the Intersectionality of Poverty and Gender Inequality in Nigeria](https://slack-files.com/TFB8EJWF3-F012BK1FXU6-bc70fcaf51) (Fatima Pate). 
-3.  [Analyzing the Causes of the Poor Education System in Nigeria and What Geospatial Methods can be Used to Improve These Issues](https://slack-files.com/TFB8EJWF3-F012QE5DR2Q-0353380a45) (Tessie Baumann). 
+2.  [Analyzing Geospatial Data and Machine Learning Methods as a Means toUnderstand the Intersectionality of Poverty and Gender Inequality in Nigeria](https://slack-files.com/TFB8EJWF3-F012BK1FXU6-bc70fcaf51) (Fatima Pate).  
+3.  [Analyzing the Causes of the Poor Education System in Nigeria and What Geospatial Methods can be Used to Improve These Issues](https://slack-files.com/TFB8EJWF3-F012QE5DR2Q-0353380a45) (Tessie Baumann).  
+4.  [Understanding the Impact of the Transatlantic Slave Trade on West Africa: The Power of History and Data Science](https://slack-files.com/TFB8EJWF3-F012BMNKKF0-5f3bb28eed) (Sydney Taylor).  
+5.  [The use of Gravity-Type Spatial Interaction Models for Improved Disaster Managementand Response Throughout Haiti](https://slack-files.com/TFB8EJWF3-F0123MG65PH-4b7944b0d1) (Brooke Lamoureux).  
 
 
