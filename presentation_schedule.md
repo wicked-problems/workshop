@@ -49,5 +49,8 @@ There will be a brief question and answer period following each student's 8 to 1
 3.  [Analyzing the Causes of the Poor Education System in Nigeria and What Geospatial Methods can be Used to Improve These Issues](https://slack-files.com/TFB8EJWF3-F012QE5DR2Q-0353380a45) (Tessie Baumann).  
 4.  [Understanding the Impact of the Transatlantic Slave Trade on West Africa: The Power of History and Data Science](https://slack-files.com/TFB8EJWF3-F012BMNKKF0-5f3bb28eed) (Sydney Taylor).  
 5.  [The use of Gravity-Type Spatial Interaction Models for Improved Disaster Managementand Response Throughout Haiti](https://slack-files.com/TFB8EJWF3-F0123MG65PH-4b7944b0d1) (Brooke Lamoureux).  
+6.  [Analyzing How Different Data Science Mapping Methods Can Help to Predict Human Mobility in Columbia After a Natural Disaster](https://slack-files.com/TFB8EJWF3-F0123P0UH47-760e53eb4b) (Jack Cone).  
+7.  [The Untold Truth about the Favelas: Using Socioeconomic Analysis  to AddressRegional](https://slack-files.com/TFB8EJWF3-F012RA1FU84-197ef3a270) (DJ Olson).  
+
 
 
