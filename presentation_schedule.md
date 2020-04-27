@@ -24,5 +24,10 @@ There will be a brief question and answer period following each student's 8 to 1
 5.  [Maternal Outcomes and Healthcare Facilities](https://slack-files.com/TFB8EJWF3-F012FSNG85B-57c2c03957) (Katie Kauppi).
 6.  [Fighting Against the Rising Tide: How Population Projectionsand Digital Elevation Models will Develop the Cities of the Future](https://slack-files.com/TFB8EJWF3-F012BR9FLR4-52a659b7cb) (Milton Pablo Zuanic).
 
+## Tuesday April 28, 12:30 to 1:50
+
+1.  [BovinesImpending, HumansDepending: The Forests of the Amazon](https://slack-files.com/TFB8EJWF3-F01234LBJF9-d04ea298f9) (Shane Evanson).  
+2.  [BovinesImpending, HumansDepending: The Forests of the Amazon](https://slack-files.com/TFB8EJWF3-F01234LBJF9-d04ea298f9) (Shane Evanson).  
+
 
 
