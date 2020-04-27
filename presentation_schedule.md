@@ -40,7 +40,7 @@ There will be a brief question and answer period following each student's 8 to 1
 2.  [Utilizing Data Science Methods to Improve Maternal and Neonatal Care in Sub-Saharan Africa](https://slack-files.com/TFB8EJWF3-F012QL4TS04-3b6e461d68) (Suditi Shyamsunder).   
 3.  [Sub-national Household Surveys and Covariate-relatedStatistical Methods for Improved Prediction of Malaria Prevalence through Nigeria](https://slack-files.com/TFB8EJWF3-F012BPFFKN2-fc571fb353) (Pecharat Kitijarurat).   
 4.  [Investigating Migration Patterns of Various Demographics in the CaribbeanFollowing Natural Disasters](https://slack-files.com/TFB8EJWF3-F0123NQ92LF-2ddfb0aff6) (Thor Sproule).   
-
+5.  [Water Scarcity in Palestine and TheMiddle East: Using Data EnvelopmentAnalysis as a Predictive Tool](https://slack-files.com/TFB8EJWF3-F012HG206TX-e654cf8259) (JR Erskine).   
 
 
 
