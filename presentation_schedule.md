@@ -30,7 +30,10 @@ There will be a brief question and answer period following each student's 8 to 1
 2.  [Utilizing Human Mobility Data and Mathematical Models to Predict the Spread of Disease in Sub-Saharan Africa](https://slack-files.com/TFB8EJWF3-F01386L44PJ-91dd5190b3) (Jimmy Yao).  
 3.  [Vaccination and Crime: The Story of an Untold Correlation](https://slack-files.com/TFB8EJWF3-F012HFPMXR9-7a4e862eb5) (Sasan Faraj).  
 4.  [Preliminary Mapping of Environmental Justice through various GeospatialMethods and Correlation Techniques](https://slack-files.com/TFB8EJWF3-F012QFSLE12-abd8f793df) (Richard She).  
-5.  [Using Machine Learning to Fight an Epidemic in Fiji](https://chase4eck.github.io/workshop-/presentation) (Chase Ecke).  
+5.  [Using Machine Learning to Fight an Epidemic in Fiji](https://chase4eck.github.io/workshop-/presentation) (Chase Ecke). 
+6.  [Finding the Cost of Progress: How Spatial Models of Urbanization can Quantify Inequality Due to Economic Development](https://slack-files.com/TFB8EJWF3-F012HMJCR1B-9ed86a27cf) (Maxwell Fonss).  
+7.  [Using Machine Learning to Estimate Development throughout the Russian Federation](https://slack-files.com/TFB8EJWF3-F012QEG4960-56d194e3ad) (Keagan DeLong).  
+
 
 
 
