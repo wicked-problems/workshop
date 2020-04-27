@@ -1,5 +1,5 @@
-# Spring 2020 COLL 100/150 Colloquium
-## Wicked Problems & Evolving Solutions in Human Development Data Science
+# Wicked Problems & Evolving Solutions in Human Development Data Science
+## Spring 2020 COLL 150/ COLL 100 Colloquium
 
 Please use the following link to join the Colloquium.
 
