@@ -28,7 +28,8 @@ There will be a brief question and answer period following each student's 8 to 1
 
 1.  [Bovines Impending, Humans Depending: The Forests of the Amazon](https://slack-files.com/TFB8EJWF3-F01234LBJF9-d04ea298f9) (Shane Evanson).  
 2.  [Utilizing Human Mobility Data and Mathematical Models to Predict the Spread of Disease in Sub-Saharan Africa](https://slack-files.com/TFB8EJWF3-F01386L44PJ-91dd5190b3) (Jimmy Yao).  
-3.  
+3.  [Vaccination and Crime: The Story of an Untold Correlation](https://slack-files.com/TFB8EJWF3-F012HFPMXR9-7a4e862eb5) (Sasan Faraj).  
+
 
 
 
