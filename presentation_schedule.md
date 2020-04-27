@@ -61,7 +61,7 @@ There will be a brief question and answer period following each student's 8 to 1
 4.  [The Effects of Travel Time to Healthcare Facilities on Infant Mortality in Ethiopia](https://slack-files.com/TFB8EJWF3-F012JH36G5R-7b51ce9768) (Kennedy O’Hanley).  
 5.  [Accessing Climate Change Vulnerability and its Implications on Agriculture Adaptive Capacity in the Mountainous Regions of Afghanistan](https://slack-files.com/TFB8EJWF3-F012QJKT2PN-0dcc106dc4) (Christopher Stine).  
 6.  [The Future of Health in Tajikistan; Bayesian Modeling for Health Outcomes](https://slack-files.com/TFB8EJWF3-F012BH6D9QE-2a5bacc519) (Andrew Protiva).  
-
+7.  [How Can Mobile Phone Data and Cost Analysis Help Evaluate Ebolaand Prevent the Next West African Epidemic?](https://slack-files.com/TFB8EJWF3-F012JAYMJCA-7addd66aa0) (Matt Rubin).  
 
 
 
