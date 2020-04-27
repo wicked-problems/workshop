@@ -34,6 +34,12 @@ There will be a brief question and answer period following each student's 8 to 1
 6.  [Finding the Cost of Progress: How Spatial Models of Urbanization can Quantify Inequality Due to Economic Development](https://slack-files.com/TFB8EJWF3-F012HMJCR1B-9ed86a27cf) (Maxwell Fonss).  
 7.  [Using Machine Learning to Estimate Development throughout the Russian Federation](https://slack-files.com/TFB8EJWF3-F012QEG4960-56d194e3ad) (Keagan DeLong).  
 
+## Wednesday April 29, 3:30 to 4:50
+
+1.  [Bayesian-Model Geospatially Predicted Maps for Understanding DTPVaccination Coverage and Accessibility on Newborn Fatality Rates witha Concentration in Sub-Saharan Africa](https://slack-files.com/TFB8EJWF3-F0123MF5MPZ-b9b500adc3) (Gabi Burgin).   
+2.  [Utilizing Data Science Methods to Improve Maternal and Neonatal Care in Sub-Saharan Africa](https://slack-files.com/TFB8EJWF3-F012QL4TS04-3b6e461d68) (Suditi Shyamsunder).   
+3.  [Sub-national Household Surveys and Covariate-relatedStatistical Methods for Improved Prediction of Malaria Prevalence through Nigeria](https://slack-files.com/TFB8EJWF3-F012BPFFKN2-fc571fb353) (Pecharat Kitijarurat).   
+4.  [Investigating Migration Patterns of Various Demographics in the CaribbeanFollowing Natural Disasters](https://slack-files.com/TFB8EJWF3-F0123NQ92LF-2ddfb0aff6) (Thor Sproule).   
 
 
 
