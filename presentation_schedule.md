@@ -3,7 +3,7 @@
 
 Please use the following link to join the Colloquium.
 
-https://cwm.zoom.us/j/6999715042
+[https://cwm.zoom.us/j/6999715042](https://cwm.zoom.us/j/6999715042)
 
 There will be a brief question and answer period following each student's 8 to 10 minute presentation.
 
