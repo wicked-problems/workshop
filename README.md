@@ -1,28 +1,27 @@
-# Catalog of Work
+Welcome to my William & Mary webpage! I am a Lecturer of Interdisciplinary Studies in the Data Science program, where the central focus of my research and teaching is upon geospatial human development processes.   I teach two courses at William & Mary, Wicked Problems and Evolving Solutions (Human Development & Data Science), where I introduce students to interpreted programming languages (primarily R & LaTeX) as the means to describe, analyze, model, simulate and communicate the results from their exploratory investigations into the dimensions of global human development.  
 
-Following is a table of contents of my work produced for Wicked Problems / Evolving Solutions.
+Contact Me:  
+Charles Center  
+William & Mary  
+P.O. Box 8795  
+Williamsburg, VA 23187-8795   
+<a href = "mailto: tjfrazier@wm.edu">tjfrazier@wm.edu</a>
 
-## Responses to Readings
+Office Hours: Fridays from 1 to 5PM
 
-1.  [Blumenstock question](https://wicked-problems.github.io/workshop/blumenstock) (Jan. 30, revised)
-2.  [Jahan / Rosling question](https://wicked-problems.github.io/workshop/jahan_rosling) (Feb. 4)
+Teaching:  
+DATA 100 / COLL 100  -  <a href = "https://tyler-frazier.github.io/wicked_problems/">Wicked Problems</a>  
+DATA 150 / COLL 150  -  <a href = "https://tyler-frazier.github.io/evolving_solutions/">Evolving Solutions (Human Development & Data Science)</a>  
 
-## Projects 
+DATA 310 - <a href = "https://tyler-frazier.github.io/applied_machine_learning/">Applied Machine Learning</a> (Summer '20 & Spring '21)  
+DATA 440 - <a href = "https://tyler-frazier.github.io/agent_based_models/">Agent-Based Modelling</a> (Fall '20)
 
-1.  [Liberia](https://wicked-problems.github.io/workshop/project1)
 
-## Assignments
 
-1.  [Annotated Bibliography](https://wicked-problems.github.io/workshop/Assignment_1) (Due Feb. 22)
-  - Problem Statement
-    - Harms
-    - Significance of those harms
-    - Inherent nature of the problem
-  - Selected LMIC or Region
-  - Dimension of Human Development
-  
-2.  Literature Review
+Resources:  
+<a href = "https://tyler-frazier.github.io/geohumanpro/data">Data Sources</a>  
+<a href = "https://tyler-frazier.github.io/geohumanpro/research">Curated Literature</a>  
+<a href = "https://tyler-frazier.github.io/geohumanpro/learning">Learning R for Geospatial Data Science</a>  
+<a href = "https://tyler-frazier.github.io/geohumanpro/groups">Geospatial Data Science Groups</a>
 
-3.  Methodology
-
-$\alpha$
+Advanced Topics:
