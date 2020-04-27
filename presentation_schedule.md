@@ -53,5 +53,15 @@ There will be a brief question and answer period following each student's 8 to 1
 6.  [Analyzing How Different Data Science Mapping Methods Can Help to Predict Human Mobility in Columbia After a Natural Disaster](https://slack-files.com/TFB8EJWF3-F0123P0UH47-760e53eb4b) (Jack Cone).  
 7.  [The Untold Truth about the Favelas: Using Socioeconomic Analysis  to AddressRegional](https://slack-files.com/TFB8EJWF3-F012RA1FU84-197ef3a270) (DJ Olson).  
 
+## Thursday April 30, 12:30 to 1:50
+
+1.  [Use of classical and machine learning data science methods for improved prediction ofmigration in relation to climate change throughout Africa](https://slack-files.com/TFB8EJWF3-F012HQNFNMQ-f39b205e8f) (Justin Maynard).  
+2.  [Mongolia’s Dynamic Future - The Necessity for Geospatial Analysis](https://slack-files.com/TFB8EJWF3-F012JKJMY11-6ae1573627) (Ronan Donovan).  
+3.  [Call Data Records and Gravity Models for Improved Epidemiology of Vector-borne Illnesses throughout Southeast Asia](https://slack-files.com/TFB8EJWF3-F012H2BNV0V-4c19f36787) (Jason Deng).  
+4.  [The Effects of Travel Time to Healthcare Facilities on Infant Mortality in Ethiopia](https://slack-files.com/TFB8EJWF3-F012JH36G5R-7b51ce9768) (Kennedy O’Hanley).  
+5.  [Accessing Climate Change Vulnerability and its Implications on Agriculture Adaptive Capacity in the Mountainous Regions of Afghanistan](https://slack-files.com/TFB8EJWF3-F012QJKT2PN-0dcc106dc4) (Christopher Stine).  
+6.  [The Future of Health in Tajikistan; Bayesian Modeling for Health Outcomes](https://slack-files.com/TFB8EJWF3-F012BH6D9QE-2a5bacc519) (Andrew Protiva).  
+
+
 
 
