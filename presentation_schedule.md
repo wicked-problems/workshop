@@ -26,8 +26,9 @@ There will be a brief question and answer period following each student's 8 to 1
 
 ## Tuesday April 28, 12:30 to 1:50
 
-1.  [BovinesImpending, HumansDepending: The Forests of the Amazon](https://slack-files.com/TFB8EJWF3-F01234LBJF9-d04ea298f9) (Shane Evanson).  
-2.  [BovinesImpending, HumansDepending: The Forests of the Amazon](https://slack-files.com/TFB8EJWF3-F01234LBJF9-d04ea298f9) (Shane Evanson).  
+1.  [Bovines Impending, Humans Depending: The Forests of the Amazon](https://slack-files.com/TFB8EJWF3-F01234LBJF9-d04ea298f9) (Shane Evanson).  
+2.  [Utilizing Human Mobility Data and Mathematical Models to Predict the Spread of Disease in Sub-Saharan Africa](https://slack-files.com/TFB8EJWF3-F01386L44PJ-91dd5190b3) (Jimmy Yao).  
+3.  
 
 
 
